@@ -1,0 +1,49 @@
+.register{
+	padding: 20px;
+	background-color: transparent;
+	border-radius: 10px;
+	color: antiquewhite;
+	background-color: #000000d0;
+	margin-right: 50px;
+	margin-top: 80px;
+
+}
+.login {
+	color: antiquewhite;
+	width: 500px;
+	background-color: #000000d0;
+	border-radius: 10px;
+	padding: 20px;
+	margin-left: 50px;
+	margin-top: 80px;
+
+}
+
+.title {
+	font-size: 3rem;
+}
+.authForm {
+	margin-top: 2rem;
+	width: 100%;
+	label {
+		width: 100%;
+		font-size: 2rem;
+	}
+	input {
+		font-size: 2rem;
+		width: 100%;
+		margin-bottom: 2rem;
+		margin-top: 0.5rem;
+		padding: 1rem;
+		border-radius: 6px;
+		border: none;
+		background-color: rgb(206, 206, 206);
+	}
+	button[type='submit'] {
+		font-size: 2rem;
+		padding: 0.5rem 1rem;
+		cursor: pointer;
+		border-radius: 10px;
+		background-color: crimson;
+	}
+}

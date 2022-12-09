@@ -1,0 +1,12 @@
+.container {
+	width: 100%;
+	
+// background-image: url('https://gifimage.net/wp-content/uploads/2017/07/animated-gif-background-1.gif');
+// height: 100vh;
+// background-repeat: no-repeat;
+// background-position: center;
+// background-size: cover;
+	@media screen and (max-width: 768px) {
+		width: 100%;
+	}
+}
